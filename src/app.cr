@@ -1,0 +1,1 @@
+puts 'Lucky Framework MVC'
